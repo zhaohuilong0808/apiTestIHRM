@@ -1,0 +1,20 @@
+2020-06-08 22:05:23,012 INFO [root] [__init__.py(<module>:8)] - 打印日志
+2020-06-08 22:05:23,369 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '0c8bacc1-8bd1-46d4-a940-d72d222aa869'}
+2020-06-08 22:05:23,394 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 22:05:23,418 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 22:05:23,443 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 22:05:23,473 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 22:05:23,495 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 22:05:23,522 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'e2fd3453-4fe2-4a83-a145-f512ab9f8045'}
+2020-06-08 22:05:23,547 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 22:05:23,569 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 22:05:23,591 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 22:05:23,615 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-06-08 22:05:23,641 INFO [root] [test_employee_csh.py(test01_login_success:33)] - 登录接口返回的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '541d5bb4-6fca-46c1-a1dd-cc5b318bdcac'}
+2020-06-08 22:05:23,641 INFO [root] [test_employee_csh.py(test01_login_success:39)] - 保存到全局变量中的请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 541d5bb4-6fca-46c1-a1dd-cc5b318bdcac'}
+2020-06-08 22:05:23,641 INFO [root] [test_employee_csh.py(test02_add_emp:60)] - app.HEADERS的值是：{'Content-Type': 'application/json', 'Authorization': 'Bearer 541d5bb4-6fca-46c1-a1dd-cc5b318bdcac'}
+2020-06-08 22:05:23,669 INFO [root] [test_employee_csh.py(test02_add_emp:64)] - 添加员工的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1269994033313218560'}}
+2020-06-08 22:05:23,669 INFO [root] [test_employee_csh.py(test02_add_emp:68)] - 保存到全局变量的员工的ID为：1269994033313218560
+2020-06-08 22:05:23,696 INFO [root] [test_employee_csh.py(test03_query_emp:85)] - 查询员工的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1269994033313218560', 'mobile': '15852007777', 'username': '小乔', 'password': 'efbbc18f4404dfb0ae9e9c72a2c26a12', 'enableState': 1, 'createTime': None, 'companyId': '1', 'companyName': '传智播客', 'departmentId': '1063678149528784896', 'timeOfEntry': '2020-05-05T00:00:00.000+0000', 'formOfEmployment': 1, 'workNumber': None, 'formOfManagement': None, 'workingCity': None, 'correctionTime': '2020-05-30T16:00:00.000+0000', 'inServiceStatus': None, 'departmentName': '测试部', 'roleIds': [], 'staffPhoto': None}}
+2020-06-08 22:05:23,729 INFO [root] [test_employee_csh.py(test04_modify_emp:103)] - 修改员工的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1269994033313218560'}}
+2020-06-08 22:05:23,759 INFO [root] [test_employee_csh.py(test05_delete_emp:120)] - 删除员工的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}

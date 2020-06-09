@@ -1,0 +1,12 @@
+2020-06-08 20:53:55,231 INFO [root] [__init__.py(<module>:8)] - 打印日志
+2020-06-08 20:53:55,531 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'b39323ef-cf57-4774-8402-c4fbb7c8f29f'}
+2020-06-08 20:53:55,556 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 20:53:55,578 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 20:53:55,603 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 20:53:55,629 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 20:53:55,656 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 20:53:55,683 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': True, 'code': 10000, 'message': '操作成功！', 'data': '286535c3-6993-4787-a459-a24557c6253d'}
+2020-06-08 20:53:55,708 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 20:53:55,733 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 20:53:55,757 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-06-08 20:53:55,782 INFO [root] [teat_login_perams_csh.py(test01_login:28)] - 登录成功的结果为: {'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
