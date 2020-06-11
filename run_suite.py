@@ -12,7 +12,7 @@ from BeautifulReport import BeautifulReport
 suite = unittest.TestLoader().discover(BASE_DIR + "/scrpt", "*csh.py")
 
 # 3.定义测试报告文件名
-report_file = "{}-IHRM".format(time.strftime("%Y%m%d--%H%M%S"))
+report_file = "IHRM".format()
 
 
 # 4.使用BeautifulReport批量运行用例生成测试报告
